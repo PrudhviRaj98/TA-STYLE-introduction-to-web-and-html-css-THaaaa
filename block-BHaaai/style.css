@@ -1,0 +1,26 @@
+
+body {
+    background-color:#1d356c;
+}
+.second {
+    color:white;
+    font-size: 20px;
+}
+p {
+    color: white;
+}
+.first {
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+}
+#is {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+#all {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
