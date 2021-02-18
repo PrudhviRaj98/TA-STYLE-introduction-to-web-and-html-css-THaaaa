@@ -24,3 +24,9 @@ p {
     font-weight: bold;
     font-size: 25px;
 }
+.header {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
